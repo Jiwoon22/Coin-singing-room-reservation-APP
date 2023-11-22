@@ -13,7 +13,8 @@ Kpu Summer Vaction Project
 * 2020/07/20 ~ 2020/08/14
 
 ## Settings
-   <img src="https://img.shields.io/badge/firebase?style=flat&logo=React&logoColor=#FFCA28"/>
+   ![image](https://github.com/Jiwoon22/Coin-singing-room-reservation-APP/assets/51106092/32fc94c2-b336-45e0-94d8-cd361ca14126)
+
 
 ## Function    
 * 로그인 (카카오톡 API를 이용한 로그인, 자동 로그인), 이메일을 이용한 로그인(관리자 전용 아이디도 생성 가능)
