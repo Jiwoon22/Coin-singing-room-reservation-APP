@@ -12,7 +12,10 @@ Kpu Summer Vaction Project
 ## Period 
 * 2020/07/20 ~ 2020/08/14
 
-## function    
+## Settings
+   <img src="https://img.shields.io/badge/firebase?style=flat&logo=React&logoColor=#FFCA28"/>
+
+## Function    
 * 로그인 (카카오톡 API를 이용한 로그인, 자동 로그인), 이메일을 이용한 로그인(관리자 전용 아이디도 생성 가능)
 * 정왕동에 있는 동전 노래방들의 목록을 하드코딩으로 정보입력함. 
 * 파이어 베이스를 이용해 DB 정보 저장 
